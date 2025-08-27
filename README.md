@@ -9,6 +9,6 @@ As for the 3D structure dataset, please move to our [Hugging Face dataset page](
 
 | File | Download | MD5 |
 |------|----------|----------------------------------|
-| aav.zip | https://github.com/zhiqiangzhongddu/Evol3D/raw/main/data/aav.zip | b9293b8818ba24425dd24f137e0a8ec3 |
-| fluorescence.zip | https://github.com/zhiqiangzhongddu/Evol3D/raw/main/data/fluorescence.zip | 38003f948e4a0afd45b2ff04a098d01a |
-| gb1.zip | https://github.com/zhiqiangzhongddu/Evol3D/raw/main/data/gb1.zip | 5cf5a17fc5a03d7306371ad67d495b42 |
+| aav.zip | https://github.com/zhiqiangzhongddu/Evol3D/raw/main/data/aav.zip | 54ea3c5667a5a22c2b40c8041b5b9698 |
+| fluorescence.zip | https://github.com/zhiqiangzhongddu/Evol3D/raw/main/data/fluorescence.zip | 9ed795b9fa92d7d3065410d642b83504 |
+| gb1.zip | https://github.com/zhiqiangzhongddu/Evol3D/raw/main/data/gb1.zip | 0d961eb27f76312646644f095c95fc88 |
